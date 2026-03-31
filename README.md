@@ -30,6 +30,19 @@ This repository contains the leaked `src/` directory.
 
 ---
 
+## Architecture Docs
+
+Detailed analysis documents for this repository are available in [docs/README.md](docs/README.md).
+
+- Full architecture overview: [docs/architecture-analysis.md](docs/architecture-analysis.md)
+- Focused maps:
+  - [docs/subsystems/command-subsystem-map.md](docs/subsystems/command-subsystem-map.md)
+  - [docs/subsystems/query-tool-subsystem-map.md](docs/subsystems/query-tool-subsystem-map.md)
+  - [docs/subsystems/state-tasks-subsystem-map.md](docs/subsystems/state-tasks-subsystem-map.md)
+  - [docs/subsystems/bridge-subsystem-map.md](docs/subsystems/bridge-subsystem-map.md)
+
+---
+
 ## Directory Structure
 
 ```
@@ -255,5 +268,6 @@ Built-in and third-party plugins are loaded through the `plugins/` subsystem.
 ## Disclaimer
 
 This repository archives source code that was leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). Contact [nichxbt](https://www.x.com/nichxbt) for any comments.
-#   c l a u d e - c o d e  
+#   c l a u d e - c o d e 
+ 
  
