@@ -255,5 +255,4 @@ Built-in and third-party plugins are loaded through the `plugins/` subsystem.
 ## Disclaimer
 
 This repository archives source code that was leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). Contact [nichxbt](https://www.x.com/nichxbt) for any comments.
-#   c l a u d e - c o d e  
- 
+#
